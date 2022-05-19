@@ -31,4 +31,4 @@ Learnt basic CSS styles for web page formatting
 - HTML - Learn HTML by Building a Cat Photo app
 - CSS - Learn Basic CSS by Building a Cafe Menu
 
-**Link to work:** [Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+**Link to work:** [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
