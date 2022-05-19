@@ -3,7 +3,8 @@
 ### Day 1: May 19, 2022
 ##### Responsive Web Design
 
-**Today's Progress**: Learnt following HTML tags
+**Today's Progress**: 
+Learnt following HTML tags
 - Declaration via DOCTYPE
 - HEAD, BODY, FOOTER tags
 - MAIN, SECTION tags
@@ -19,7 +20,15 @@
 - Fieldset & Legend for input elements
 - Label for Input elements
 - Various attributes for Input element - ID, NAME & VALUE
+- DIV tag
 
-**Thoughts:** Completed first course on HTML - Learn HTML by Building a Cat Photo app.
+Learnt basic CSS styles for web page formatting
+- Type Selectors - HTML elements
+- Class Selectors - Class attributes of HTML elements
+- Pseudo Selectors - State of an HTML element
+
+**Thoughts:** Completed 
+- HTML - Learn HTML by Building a Cat Photo app
+- CSS - Learn Basic CSS by Building a Cafe Menu
 
 **Link to work:** [Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design)
