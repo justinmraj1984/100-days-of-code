@@ -32,3 +32,47 @@ Learnt basic CSS styles for web page formatting
 - CSS - Learn Basic CSS by Building a Cafe Menu
 
 **Link to work:** [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+
+### Day 2: May 20, 2022
+##### Responsive Web Design
+
+**Today's Progress**: CSS Colours
+- Primary Colours: 
+  - Red rgb(255,0,0)
+  - Green rgb(0,255,0)
+  - Blue rgb(0,0,255)
+  - White rgb(266,255,255)
+  - Black rgb(0,0,0)
+
+- Secondary Colours:
+  - Yellow = Red + Green  rgb(255,255,0)
+  - Cyan = Green + Blue  rgb(0,255,255)
+  - Magenta = Blue + Red  rgb(255,0,255)
+
+- Tertiary Colours:
+  - Orange = Red + 0.5 Green  rgb(255,127,0)
+  - Spring Green = Green + 0.5 Blue rgb(0,255,127)
+  - Violet = Blue + 0.5 Red rgb (127,0,255)
+  - Chartreuse Green = 0.5 Red + Green  rgb(127,255,0)
+  - Azure = 0.5 Green + Blue rgb(0,127,255)
+  - Pink = 0.5 Blue + Red rgb(255,0,127)
+
+- Color Wheel:
+  - Hues - Similar colours
+  - Complementary Colours - Colurs which are opposite to each other 
+    - Adding 2 complementary colours creates grey
+    - But when placed side-by-side, they produce strong visual contrast and appear brighter
+
+- Colour Code representation types:
+  - RGB
+  - HSL
+  - Hexadecimal
+  - Gradient - Transition of one colour into another
+    - Linear Gradient
+
+
+
+**Thoughts:** Completed 
+- CSS Colours
+
+**Link to work:** [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
