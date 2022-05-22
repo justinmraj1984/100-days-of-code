@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 19, 2022
-##### Responsive Web Design
+### Day 1: May 19, 2022 - Responsive Web Design
 
+**Language**: HTML, CSS
 **Today's Progress**: 
 Learnt following HTML tags
 - Declaration via `DOCTYPE`
@@ -33,9 +33,9 @@ Learnt basic CSS styles for web page formatting
 
 **Link to work:** [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
-### Day 2: May 20, 2022
-##### Responsive Web Design
+### Day 2: May 20, 2022 - Responsive Web Design
 
+**Language**: HTML, CSS
 **Today's Progress**: CSS Colours
 - Primary Colours: 
   - Red `rgb(255,0,0)`
@@ -50,7 +50,7 @@ Learnt basic CSS styles for web page formatting
   - Magenta = Blue + Red  `rgb(255,0,255)`
 
 - Tertiary Colours:
-  - Orange = Red + 0.5 Green  `rgb(255,127,0)
+  - Orange = Red + 0.5 Green  `rgb(255,127,0)`
   - Spring Green = Green + 0.5 Blue `rgb(0,255,127)`
   - Violet = Blue + 0.5 Red  `rgb (127,0,255)`
   - Chartreuse Green = 0.5 Red + Green  `rgb(127,255,0)`
@@ -70,10 +70,15 @@ Learnt basic CSS styles for web page formatting
   - Gradient - Transition of one colour into another
     - Linear Gradient
 
-
-
 **Thoughts:** Completed 
 - CSS Colours
+
+
+### Day 3: May 22, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: Registration Form
+- Formatting form components
 
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
