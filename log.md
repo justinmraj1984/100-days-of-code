@@ -80,6 +80,12 @@ Learnt basic CSS styles for web page formatting
 **Today's Progress**: Registration Form
 - Formatting form components
 
+### Day 4: May 23, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: Project - Survey Form
+
+
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 - [Github Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

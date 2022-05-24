@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Survey Form</title>
+  </head>
+  
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">This is a survey form</p>
+
+    <form id="survey-form">
+      <label id="name-label">Enter Name: 
+        <input id="name" type="text" 
+        placeholder="Name"
+        required/>
+      </label>
+      <label id="email-label">Enter Email: 
+        <input id="email" type="email" 
+        placeholder="Email"
+        required/>
+      </label>
+      <label id="number-label">Enter Number: 
+        <input id="number" type="number" min="13" max="120" 
+        placeholder="Number"/>
+      </label>
+      <label id="dropdown-label">Select from Dropdown: 
+        <select id="dropdown">
+          <option value="">(Select none)</option>
+          <option value="T">True</option>
+          <option value="F">False</option>
+        </select>
+      </label>
+      <label id="radio-label">Select from Radio Button: 
+        <label>
+          <input name="option-select" id="o1" 
+          type="radio" 
+          value="Option 1" checked/>
+        Option 1
+        </label>
+        <label>
+          <input name="option-select" id="o2" 
+          type="radio" 
+          value="Option 2"/>
+        Option 2
+        </label>
+      </label>
+      <label id="check-label">Select from Checkbox: 
+        <label>
+          <input name="mc-select" id="mc1" 
+          type="checkbox" 
+          value="Value 1" checked/>
+        Value 1
+        </label>
+        <label>
+          <input name="mc-select" id="mc2" 
+          type="checkbox" 
+          value="Value 2"/>
+        Value 2
+        </label>
+        <label>
+          <input name="mc-select" id="mc3" 
+          type="checkbox" 
+          value="Value 3"/>
+        Value 3
+        </label>
+        <label>
+          <input name="mc-select" id="mc4" 
+          type="checkbox" 
+          value="Value 4"/>
+        Value 4
+        </label>
+      </label>
+      <label>Comments: 
+        <textarea id="comments" name="comments" 
+        rows="3" cols="30" 
+        placeholder="Enter your comments..."></textarea>
+      </label>
+      <input id="submit" type="submit" value="Submit"/>
+    </form>
+
+  </body>
+</html>
