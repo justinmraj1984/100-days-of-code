@@ -85,6 +85,11 @@ Learnt basic CSS styles for web page formatting
 **Language**: HTML, CSS
 **Today's Progress**: Project - Survey Form
 
+### Day 5: Jun 03, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Box Model
+
 
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
