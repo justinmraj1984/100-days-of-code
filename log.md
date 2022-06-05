@@ -89,7 +89,21 @@ Learnt basic CSS styles for web page formatting
 
 **Language**: HTML, CSS
 **Today's Progress**: CSS Box Model
+Following styles are completed for a <div> class element
+- Margin
+- Padding
+- Borders
+- Transform
+- Filter
+- Overflow
+- Background color
 
+### Day 6: Jun 05, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Flexbox
+- Flex Box
+- Media Queries
 
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
