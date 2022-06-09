@@ -105,6 +105,14 @@ Following styles are completed for a <div> class element
 - Flex Box
 - Media Queries
 
+### Day 7: Jun 09, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Typography
+- Adding fonts
+- Formatting size, content, indentation
+- Setting dividers, no-divider
+
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 - [Github Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
