@@ -113,6 +113,29 @@ Following styles are completed for a <div> class element
 - Formatting size, content, indentation
 - Setting dividers, no-divider
 
+### Day 8: Jun 10, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: Accessibility
+- ARIA attributes
+- Web Accessibility Initiative (WAI)
+- HTML:
+  - `role` attribute
+  - `nav` tag
+  - Adding Section reference in `a` tag
+  - `placeholder` attribute in `input` tag
+- CSS:
+  - Site-Read Only properties
+  - Cursor Pointer
+  - Section navigation scrolling
+  - Media query for scroll preference
+
+
+
+
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
+- [FreeCodeCamp - Design Style Guide](https://design-style-guide.freecodecamp.org/)
 - [Github Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
+- [WAI Fundamentals Course](https://www.w3.org/WAI/fundamentals/foundations-course/)
