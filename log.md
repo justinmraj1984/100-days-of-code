@@ -131,6 +131,11 @@ Following styles are completed for a <div> class element
   - Media query for scroll preference
 
 
+### Day 9: Jun 26, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: Project - Tribute Page
+- Reference: [https://tribute-page.freecodecamp.rocks/](https://tribute-page.freecodecamp.rocks/)
 
 
 **Link to work:** 
