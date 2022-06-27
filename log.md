@@ -131,11 +131,24 @@ Following styles are completed for a <div> class element
   - Media query for scroll preference
 
 
-### Day 9: Jun 26, 2022 - Responsive Web Design
+### Day 9: Jun 20, 2022 - Responsive Web Design
 
 **Language**: HTML, CSS
 **Today's Progress**: Project - Tribute Page
 - Reference: [https://tribute-page.freecodecamp.rocks/](https://tribute-page.freecodecamp.rocks/)
+
+
+### Day 10: Jun 26, 2022 - CSS Pseudo Selectors - Balance Sheet
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Pseudo Selectors
+- calc function within css
+- css to exclude sr-only components
+- nth-of-type function
+- pseudo selection for hover
+- last-of-type selector
+
+
 
 
 **Link to work:** 
