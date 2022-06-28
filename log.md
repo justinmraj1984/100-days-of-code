@@ -163,8 +163,9 @@ Following styles are completed for a <div> class element
 
 **Language**: HTML, CSS
 **Today's Progress**: Responsive Design for different-sized screens
-- Media Queries
 - Pseudo Selectors
+- Pseudo Elements
+- Media Queries
 
 
 
