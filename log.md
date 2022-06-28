@@ -149,6 +149,23 @@ Following styles are completed for a <div> class element
 - last-of-type selector
 
 
+### Day 11: Jun 27, 2022 - Intermediate CSS - Picasso Painting
+
+**Language**: HTML, CSS
+**Today's Progress**: Intermediate CSS
+- SVG icons from fontawesome ([https://use.fontawesome.com/releases/v6.1.1/css/all.css](https://use.fontawesome.com/releases/v6.1.1/css/all.css))
+- CSS positioning
+  - position
+  - z-index
+
+
+### Day 12: Jun 28, 2022 - Responsive Design - Piano for different-sized screens
+
+**Language**: HTML, CSS
+**Today's Progress**: Responsive Design for different-sized screens
+- Media Queries
+- Pseudo Selectors
+
 
 
 **Link to work:** 
@@ -157,3 +174,4 @@ Following styles are completed for a <div> class element
 - [Github Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
 - [WAI Fundamentals Course](https://www.w3.org/WAI/fundamentals/foundations-course/)
+- [Fontwesome Cheatsheet](https://fontawesome.com/v5/cheatsheet)
