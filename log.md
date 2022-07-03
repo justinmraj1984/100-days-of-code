@@ -168,6 +168,33 @@ Following styles are completed for a <div> class element
 - Media Queries
 
 
+### Day 13: Jun 28, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: Project - Technical Documentation Page
+- Reference: [https://technical-documentation-page.freecodecamp.rocks/](https://technical-documentation-page.freecodecamp.rocks/)
+
+
+### Day 14: Jun 29, 2022 - CSS Variables - Build a City Skyline
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Variables - Build a City Skyline
+- Viewport Height
+- Variable declaration and Value Assignment
+- Variable usage
+- Usage of Fallback value
+- Root selector for global variable declaration
+- Linear Gradient with
+  - 2 colours
+  - 3 colours
+  - 3 colours & transition %
+- Repeating Linear Gradient
+- Change Gradient Direction
+- Adding multiple gradients to an element
+- Radial Gradient
+- Media Query to change the color theme based on Screen size
+
+
 
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
