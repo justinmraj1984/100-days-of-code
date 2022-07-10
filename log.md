@@ -211,6 +211,7 @@ Following styles are completed for a <div> class element
   - `align-items`
   - `gap`, `row-gap`, `column-gap`
   - `place-items`
+  - `repeat`
 
 
 ### Day 16: Jul 10, 2022 - Responsive Web Design
@@ -220,6 +221,13 @@ Following styles are completed for a <div> class element
 - Reference: [https://product-landing-page.freecodecamp.rocks/](https://product-landing-page.freecodecamp.rocks/)
 
 
+### Day 17: Jul 11, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Animation - Ferris Wheel
+- CSS Attributes:
+  - `transform-origin`
+  - `@keyframes` at-rule
 
 
 
