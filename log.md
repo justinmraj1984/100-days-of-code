@@ -195,6 +195,28 @@ Following styles are completed for a <div> class element
 - Media Query to change the color theme based on Screen size
 
 
+### Day 15: Jul 04, 2022 - CSS Grid - Build a Magazine
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Grid - Build a Magazine
+- Lazy loading of Images
+- Omit Referer HTTP header using `rel=noreferrer` in anchor tag - `<a>`
+- `<article>` tag
+- `<aside>` tag
+- CSS attributes:
+  - `grid-column`
+  - `grid-template-rows`, `grid-template-columns`
+  - `grid-auto-flow`
+  - `grid-auto-columns`
+  - `align-items`
+  - `gap`, `row-gap`, `column-gap`
+  - `place-items`
+
+
+
+
+
+
 
 **Link to work:** 
 - [FreeCodeCamp - Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
