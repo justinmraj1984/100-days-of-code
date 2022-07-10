@@ -213,6 +213,13 @@ Following styles are completed for a <div> class element
   - `place-items`
 
 
+### Day 16: Jul 10, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: Project - Product Landing Page
+- Reference: [https://product-landing-page.freecodecamp.rocks/](https://product-landing-page.freecodecamp.rocks/)
+
+
 
 
 
