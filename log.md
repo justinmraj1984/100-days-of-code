@@ -228,8 +228,23 @@ Following styles are completed for a <div> class element
 - CSS Attributes:
   - `transform-origin`
   - `@keyframes` at-rule
+  - `animation-name`
+  - `animation-duration`
+  - `animation-iteration-count`
+  - `animation-timing-function`
 
 
+### Day 18: Jul 16, 2022 - Responsive Web Design
+
+**Language**: HTML, CSS
+**Today's Progress**: CSS Transform - Penguin
+- CSS Functions:
+  - `skew (x-axis shear angle, y-axis shear angle)`
+  - `rotate (degrees)`
+  - `scale()`
+  - `transition-duration`
+  - `transition-timing-function`
+  - `transition-delay`
 
 
 
